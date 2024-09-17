@@ -1,0 +1,5 @@
+subdir('Audio')
+subdir('Events')
+subdir('Objects')
+subdir('Physics')
+subdir('Renderer')
